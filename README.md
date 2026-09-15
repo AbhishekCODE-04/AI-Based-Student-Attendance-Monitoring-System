@@ -56,3 +56,10 @@ in subsequent reviews.
 - Develop attendance analysis features.
 - Add analytics and low-attendance identification.
 - Test the proposed system.
+
+- ### Detailed DSA Mapping
+
+For a detailed explanation of the DSA concepts used in the project,
+including concepts that are not directly used and their reasons:
+
+[View Detailed DSA Mapping](docs/DSA-Mapping.md)
