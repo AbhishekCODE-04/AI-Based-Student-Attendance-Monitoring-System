@@ -63,3 +63,9 @@ For a detailed explanation of the DSA concepts used in the project,
 including concepts that are not directly used and their reasons:
 
 [View Detailed DSA Mapping](docs/DSA-Mapping.md)
+-### Evidence / Supporting Material
+### System Flowchart
+
+The system flowchart represents the overall workflow of the AI-Based Student Attendance Monitoring System, from attendance data collection and processing to analysis, risk identification, and report generation.
+
+![System Flowchart](System%20Flowchart/system-flowchart.png)
