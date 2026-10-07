@@ -68,4 +68,4 @@ including concepts that are not directly used and their reasons:
 
 The system flowchart represents the overall workflow of the AI-Based Student Attendance Monitoring System, from attendance data collection and processing to analysis, risk identification, and report generation.
 
-![System Flowchart](System%20Flowchart/system-flowchart.png)
+system-flowchart.png.png
